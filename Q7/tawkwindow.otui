@@ -1,0 +1,12 @@
+MainWindow
+  id: tawksWindow
+  !text: tr('Jump Bar')
+  size: 950 700
+
+  Button
+    id: buttonCancel
+    !text: tr('Cancel')
+    width: 64
+    anchors.right: parent.right
+    anchors.bottom: parent.bottom
+    @onClick: CharacterList.hideBarWindow()
