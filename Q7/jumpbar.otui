@@ -1,0 +1,4 @@
+MainWindow
+  id: jumpWindow
+  !text: tr('Jump')
+  size: 100 70
