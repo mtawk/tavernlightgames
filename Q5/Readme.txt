@@ -1,0 +1,1 @@
+Spawn the "Ice Wisher" Monster in the game world
